@@ -1,0 +1,32 @@
+name: Update Crowd Radar Data
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run mobility calculation script
+        run: python update_radar.py
+
+      - name: Commit and push updated data.json
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated live crowd index update"
+          git push

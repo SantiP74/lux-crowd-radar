@@ -5,10 +5,10 @@
       "type": "Feature",
       "properties": {
         "name": "Ville-Haute (Historic City Centre)",
-        "crowd_level": 79,
+        "crowd_level": 42,
         "trend": "+9% last 20 min",
         "trend_type": "up",
-        "reason": "Dining footfall, Knuedler/St-Esprit parking saturation"
+        "reason": "Standard commercial movement"
       },
       "geometry": {
         "type": "Polygon",
@@ -42,10 +42,10 @@
       "type": "Feature",
       "properties": {
         "name": "Gare",
-        "crowd_level": 69,
-        "trend": "+0% last 20 min",
+        "crowd_level": 49,
+        "trend": "+25% last 20 min",
         "trend_type": "up",
-        "reason": "CFL commuter interchange & commercial traffic"
+        "reason": "Continuous rail/bus flow"
       },
       "geometry": {
         "type": "Polygon",
@@ -79,10 +79,10 @@
       "type": "Feature",
       "properties": {
         "name": "Kirchberg",
-        "crowd_level": 27,
-        "trend": "+13% last 20 min",
+        "crowd_level": 44,
+        "trend": "+12% last 20 min",
         "trend_type": "up",
-        "reason": "Post-work office outflow, Luxtram heading to Centre"
+        "reason": "Regular business activity"
       },
       "geometry": {
         "type": "Polygon",
@@ -116,8 +116,8 @@
       "type": "Feature",
       "properties": {
         "name": "Limpertsberg",
-        "crowd_level": 27,
-        "trend": "+1% last 20 min",
+        "crowd_level": 24,
+        "trend": "+9% last 20 min",
         "trend_type": "up",
         "reason": "Residential calm, Glacis parking availability"
       },
@@ -153,10 +153,10 @@
       "type": "Feature",
       "properties": {
         "name": "Grund & Clausen",
-        "crowd_level": 73,
-        "trend": "+18% last 20 min",
-        "trend_type": "up",
-        "reason": "Nightlife & Alzette riverside pubs inflow"
+        "crowd_level": 23,
+        "trend": "-14% last 20 min",
+        "trend_type": "down",
+        "reason": "Quiet hours"
       },
       "geometry": {
         "type": "Polygon",
@@ -190,8 +190,8 @@
       "type": "Feature",
       "properties": {
         "name": "Belair & Merl",
-        "crowd_level": 25,
-        "trend": "-14% last 20 min",
+        "crowd_level": 23,
+        "trend": "-10% last 20 min",
         "trend_type": "down",
         "reason": "Park and residential zone"
       },
@@ -227,9 +227,9 @@
       "type": "Feature",
       "properties": {
         "name": "Gasperich / Cloche d'Or",
-        "crowd_level": 60,
-        "trend": "+15% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 49,
+        "trend": "-15% last 20 min",
+        "trend_type": "down",
         "reason": "Commercial hub & southern Luxtram terminus"
       },
       "geometry": {
@@ -264,8 +264,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bonnevoie",
-        "crowd_level": 41,
-        "trend": "+24% last 20 min",
+        "crowd_level": 46,
+        "trend": "+21% last 20 min",
         "trend_type": "up",
         "reason": "Local neighbourhood dynamics & transit"
       },

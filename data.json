@@ -5,9 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Ville-Haute (Historic City Centre)",
-        "crowd_level": 78,
-        "trend": "+2% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 76,
+        "trend": "-2% last 20 min",
+        "trend_type": "down",
         "reason": "Commuter tram transit & retail activity"
       },
       "geometry": {
@@ -42,7 +42,7 @@
       "type": "Feature",
       "properties": {
         "name": "Gare",
-        "crowd_level": 87,
+        "crowd_level": 88,
         "trend": "+5% last 20 min",
         "trend_type": "up",
         "reason": "High commuter train/tram interchange"
@@ -79,9 +79,9 @@
       "type": "Feature",
       "properties": {
         "name": "Kirchberg",
-        "crowd_level": 92,
-        "trend": "+2% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 85,
+        "trend": "-8% last 20 min",
+        "trend_type": "down",
         "reason": "Peak business & institutional commuter rush"
       },
       "geometry": {
@@ -116,8 +116,8 @@
       "type": "Feature",
       "properties": {
         "name": "Limpertsberg",
-        "crowd_level": 44,
-        "trend": "-8% last 20 min",
+        "crowd_level": 47,
+        "trend": "-7% last 20 min",
         "trend_type": "down",
         "reason": "School and university rush hour"
       },
@@ -153,9 +153,9 @@
       "type": "Feature",
       "properties": {
         "name": "Grund & Clausen",
-        "crowd_level": 28,
-        "trend": "-5% last 20 min",
-        "trend_type": "down",
+        "crowd_level": 30,
+        "trend": "+5% last 20 min",
+        "trend_type": "up",
         "reason": "Normal local flow"
       },
       "geometry": {
@@ -190,8 +190,8 @@
       "type": "Feature",
       "properties": {
         "name": "Belair & Merl",
-        "crowd_level": 31,
-        "trend": "+0% last 20 min",
+        "crowd_level": 36,
+        "trend": "+1% last 20 min",
         "trend_type": "up",
         "reason": "School drop-off & exit traffic"
       },
@@ -227,9 +227,9 @@
       "type": "Feature",
       "properties": {
         "name": "Gasperich / Cloche d'Or",
-        "crowd_level": 73,
-        "trend": "+4% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 79,
+        "trend": "-3% last 20 min",
+        "trend_type": "down",
         "reason": "Commuter traffic & business park inflow"
       },
       "geometry": {
@@ -264,9 +264,9 @@
       "type": "Feature",
       "properties": {
         "name": "Bonnevoie",
-        "crowd_level": 63,
-        "trend": "-6% last 20 min",
-        "trend_type": "down",
+        "crowd_level": 64,
+        "trend": "+3% last 20 min",
+        "trend_type": "up",
         "reason": "Commuter artery to Gare central"
       },
       "geometry": {

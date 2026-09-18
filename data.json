@@ -5,9 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Ville-Haute (Historic City Centre)",
-        "crowd_level": 68,
-        "trend": "+4% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 69,
+        "trend": "-7% last 20 min",
+        "trend_type": "down",
         "reason": "Evening dining footfall"
       },
       "geometry": {
@@ -43,8 +43,8 @@
       "properties": {
         "name": "Gare",
         "crowd_level": 59,
-        "trend": "-6% last 20 min",
-        "trend_type": "down",
+        "trend": "+3% last 20 min",
+        "trend_type": "up",
         "reason": "Evening passenger connections"
       },
       "geometry": {
@@ -80,7 +80,7 @@
       "properties": {
         "name": "Kirchberg",
         "crowd_level": 22,
-        "trend": "+3% last 20 min",
+        "trend": "+0% last 20 min",
         "trend_type": "up",
         "reason": "Post-work empty offices"
       },
@@ -116,7 +116,7 @@
       "type": "Feature",
       "properties": {
         "name": "Limpertsberg",
-        "crowd_level": 16,
+        "crowd_level": 20,
         "trend": "-6% last 20 min",
         "trend_type": "down",
         "reason": "Quiet residential evening"
@@ -153,8 +153,8 @@
       "type": "Feature",
       "properties": {
         "name": "Grund & Clausen",
-        "crowd_level": 69,
-        "trend": "+0% last 20 min",
+        "crowd_level": 67,
+        "trend": "+8% last 20 min",
         "trend_type": "up",
         "reason": "River pubs and dinner gatherings"
       },
@@ -190,9 +190,9 @@
       "type": "Feature",
       "properties": {
         "name": "Belair & Merl",
-        "crowd_level": 16,
-        "trend": "+2% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 15,
+        "trend": "-4% last 20 min",
+        "trend_type": "down",
         "reason": "Quiet residential"
       },
       "geometry": {
@@ -227,8 +227,8 @@
       "type": "Feature",
       "properties": {
         "name": "Gasperich / Cloche d'Or",
-        "crowd_level": 38,
-        "trend": "+7% last 20 min",
+        "crowd_level": 35,
+        "trend": "+1% last 20 min",
         "trend_type": "up",
         "reason": "Cinema & late dining"
       },
@@ -264,8 +264,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bonnevoie",
-        "crowd_level": 44,
-        "trend": "-6% last 20 min",
+        "crowd_level": 43,
+        "trend": "-7% last 20 min",
         "trend_type": "down",
         "reason": "Local dining and pub flow"
       },

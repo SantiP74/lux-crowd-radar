@@ -5,10 +5,10 @@
       "type": "Feature",
       "properties": {
         "name": "Ville-Haute (Historic City Centre)",
-        "crowd_level": 69,
-        "trend": "-7% last 20 min",
-        "trend_type": "down",
-        "reason": "Evening dining footfall"
+        "crowd_level": 47,
+        "trend": "+6% last 20 min",
+        "trend_type": "up",
+        "reason": "Morning shoppers arriving"
       },
       "geometry": {
         "type": "Polygon",
@@ -42,10 +42,10 @@
       "type": "Feature",
       "properties": {
         "name": "Gare",
-        "crowd_level": 59,
-        "trend": "+3% last 20 min",
-        "trend_type": "up",
-        "reason": "Evening passenger connections"
+        "crowd_level": 52,
+        "trend": "-2% last 20 min",
+        "trend_type": "down",
+        "reason": "Weekend morning transit hub"
       },
       "geometry": {
         "type": "Polygon",
@@ -79,10 +79,10 @@
       "type": "Feature",
       "properties": {
         "name": "Kirchberg",
-        "crowd_level": 22,
+        "crowd_level": 19,
         "trend": "+0% last 20 min",
         "trend_type": "up",
-        "reason": "Post-work empty offices"
+        "reason": "Low morning activity"
       },
       "geometry": {
         "type": "Polygon",
@@ -116,10 +116,10 @@
       "type": "Feature",
       "properties": {
         "name": "Limpertsberg",
-        "crowd_level": 20,
-        "trend": "-6% last 20 min",
+        "crowd_level": 24,
+        "trend": "-7% last 20 min",
         "trend_type": "down",
-        "reason": "Quiet residential evening"
+        "reason": "Local bakeries & market"
       },
       "geometry": {
         "type": "Polygon",
@@ -153,10 +153,10 @@
       "type": "Feature",
       "properties": {
         "name": "Grund & Clausen",
-        "crowd_level": 67,
-        "trend": "+8% last 20 min",
+        "crowd_level": 23,
+        "trend": "+4% last 20 min",
         "trend_type": "up",
-        "reason": "River pubs and dinner gatherings"
+        "reason": "Morning quiet"
       },
       "geometry": {
         "type": "Polygon",
@@ -190,10 +190,10 @@
       "type": "Feature",
       "properties": {
         "name": "Belair & Merl",
-        "crowd_level": 15,
-        "trend": "-4% last 20 min",
-        "trend_type": "down",
-        "reason": "Quiet residential"
+        "crowd_level": 25,
+        "trend": "+3% last 20 min",
+        "trend_type": "up",
+        "reason": "Morning outdoor activity"
       },
       "geometry": {
         "type": "Polygon",
@@ -227,10 +227,10 @@
       "type": "Feature",
       "properties": {
         "name": "Gasperich / Cloche d'Or",
-        "crowd_level": 35,
-        "trend": "+1% last 20 min",
+        "crowd_level": 38,
+        "trend": "+2% last 20 min",
         "trend_type": "up",
-        "reason": "Cinema & late dining"
+        "reason": "Retail opening hour"
       },
       "geometry": {
         "type": "Polygon",
@@ -264,10 +264,10 @@
       "type": "Feature",
       "properties": {
         "name": "Bonnevoie",
-        "crowd_level": 43,
-        "trend": "-7% last 20 min",
-        "trend_type": "down",
-        "reason": "Local dining and pub flow"
+        "crowd_level": 30,
+        "trend": "+6% last 20 min",
+        "trend_type": "up",
+        "reason": "Morning neighbourhood movement"
       },
       "geometry": {
         "type": "Polygon",

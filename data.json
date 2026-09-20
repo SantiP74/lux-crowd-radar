@@ -5,10 +5,10 @@
       "type": "Feature",
       "properties": {
         "name": "Ville-Haute (Historic City Centre)",
-        "crowd_level": 15,
-        "trend": "+6% last 20 min",
+        "crowd_level": 33,
+        "trend": "+8% last 20 min",
         "trend_type": "up",
-        "reason": "Quiet Sunday morning, commercial retail closed"
+        "reason": "Afternoon visitors, open cafes on Place d'Armes"
       },
       "geometry": {
         "type": "Polygon",
@@ -42,10 +42,10 @@
       "type": "Feature",
       "properties": {
         "name": "Gare",
-        "crowd_level": 17,
-        "trend": "+5% last 20 min",
-        "trend_type": "up",
-        "reason": "Reduced Sunday regional transit rhythm"
+        "crowd_level": 34,
+        "trend": "-2% last 20 min",
+        "trend_type": "down",
+        "reason": "Moderate afternoon passenger transit"
       },
       "geometry": {
         "type": "Polygon",
@@ -79,10 +79,10 @@
       "type": "Feature",
       "properties": {
         "name": "Kirchberg",
-        "crowd_level": 7,
-        "trend": "+8% last 20 min",
+        "crowd_level": 18,
+        "trend": "+3% last 20 min",
         "trend_type": "up",
-        "reason": "Office district completely idle"
+        "reason": "Cultural visitors (Mudam / Philharmonie)"
       },
       "geometry": {
         "type": "Polygon",
@@ -116,10 +116,10 @@
       "type": "Feature",
       "properties": {
         "name": "Limpertsberg",
-        "crowd_level": 14,
-        "trend": "-2% last 20 min",
-        "trend_type": "down",
-        "reason": "Calm residential morning"
+        "crowd_level": 23,
+        "trend": "+8% last 20 min",
+        "trend_type": "up",
+        "reason": "Relaxed residential afternoon"
       },
       "geometry": {
         "type": "Polygon",
@@ -153,10 +153,10 @@
       "type": "Feature",
       "properties": {
         "name": "Grund & Clausen",
-        "crowd_level": 14,
-        "trend": "+0% last 20 min",
-        "trend_type": "up",
-        "reason": "Tranquil valley, morning walking/running"
+        "crowd_level": 39,
+        "trend": "-5% last 20 min",
+        "trend_type": "down",
+        "reason": "Afternoon walks along the Alzette"
       },
       "geometry": {
         "type": "Polygon",
@@ -190,10 +190,10 @@
       "type": "Feature",
       "properties": {
         "name": "Belair & Merl",
-        "crowd_level": 16,
-        "trend": "-5% last 20 min",
+        "crowd_level": 33,
+        "trend": "-8% last 20 min",
         "trend_type": "down",
-        "reason": "Local morning strolls & park activities"
+        "reason": "Parc de Merl family recreational flow"
       },
       "geometry": {
         "type": "Polygon",
@@ -227,10 +227,10 @@
       "type": "Feature",
       "properties": {
         "name": "Gasperich / Cloche d'Or",
-        "crowd_level": 10,
-        "trend": "+4% last 20 min",
-        "trend_type": "up",
-        "reason": "Shopping mall closed, very low activity"
+        "crowd_level": 16,
+        "trend": "-2% last 20 min",
+        "trend_type": "down",
+        "reason": "Low commercial activity on Sunday"
       },
       "geometry": {
         "type": "Polygon",
@@ -264,10 +264,10 @@
       "type": "Feature",
       "properties": {
         "name": "Bonnevoie",
-        "crowd_level": 18,
-        "trend": "+3% last 20 min",
-        "trend_type": "up",
-        "reason": "Quiet neighbourhood streets"
+        "crowd_level": 22,
+        "trend": "-5% last 20 min",
+        "trend_type": "down",
+        "reason": "Local leisure and neighbourhood cafes"
       },
       "geometry": {
         "type": "Polygon",

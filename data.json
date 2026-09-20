@@ -5,9 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Ville-Haute (Historic City Centre)",
-        "crowd_level": 25,
-        "trend": "+0% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 30,
+        "trend": "-2% last 20 min",
+        "trend_type": "down",
         "reason": "Evening dining, low street footfall"
       },
       "geometry": {
@@ -42,9 +42,9 @@
       "type": "Feature",
       "properties": {
         "name": "Gare",
-        "crowd_level": 30,
-        "trend": "+7% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 35,
+        "trend": "-6% last 20 min",
+        "trend_type": "down",
         "reason": "End-of-weekend inbound rail returns"
       },
       "geometry": {
@@ -79,9 +79,9 @@
       "type": "Feature",
       "properties": {
         "name": "Kirchberg",
-        "crowd_level": 12,
-        "trend": "+6% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 8,
+        "trend": "-4% last 20 min",
+        "trend_type": "down",
         "reason": "Quiet business district"
       },
       "geometry": {
@@ -116,8 +116,8 @@
       "type": "Feature",
       "properties": {
         "name": "Limpertsberg",
-        "crowd_level": 14,
-        "trend": "-2% last 20 min",
+        "crowd_level": 12,
+        "trend": "-3% last 20 min",
         "trend_type": "down",
         "reason": "Calm residential evening"
       },
@@ -153,9 +153,9 @@
       "type": "Feature",
       "properties": {
         "name": "Grund & Clausen",
-        "crowd_level": 30,
-        "trend": "-4% last 20 min",
-        "trend_type": "down",
+        "crowd_level": 32,
+        "trend": "+1% last 20 min",
+        "trend_type": "up",
         "reason": "Moderate evening tavern activity"
       },
       "geometry": {
@@ -227,8 +227,8 @@
       "type": "Feature",
       "properties": {
         "name": "Gasperich / Cloche d'Or",
-        "crowd_level": 12,
-        "trend": "-2% last 20 min",
+        "crowd_level": 10,
+        "trend": "-6% last 20 min",
         "trend_type": "down",
         "reason": "Quiet commercial perimeter"
       },
@@ -264,7 +264,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bonnevoie",
-        "crowd_level": 17,
+        "crowd_level": 21,
         "trend": "+2% last 20 min",
         "trend_type": "up",
         "reason": "Low evening traffic"

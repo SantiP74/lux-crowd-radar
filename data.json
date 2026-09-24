@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ville-Haute (Historic City Centre)",
-        "crowd_level": 41,
-        "trend": "-7% last 20 min",
+        "crowd_level": 47,
+        "trend": "-4% last 20 min",
         "trend_type": "down",
         "reason": "Moderate pedestrian traffic"
       },
@@ -42,9 +42,9 @@
       "type": "Feature",
       "properties": {
         "name": "Gare",
-        "crowd_level": 53,
-        "trend": "+8% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 50,
+        "trend": "-7% last 20 min",
+        "trend_type": "down",
         "reason": 15
       },
       "geometry": {
@@ -79,9 +79,9 @@
       "type": "Feature",
       "properties": {
         "name": "Kirchberg",
-        "crowd_level": 46,
-        "trend": "-2% last 20 min",
-        "trend_type": "down",
+        "crowd_level": 39,
+        "trend": "+4% last 20 min",
+        "trend_type": "up",
         "reason": "Standard business activity"
       },
       "geometry": {
@@ -116,8 +116,8 @@
       "type": "Feature",
       "properties": {
         "name": "Limpertsberg",
-        "crowd_level": 19,
-        "trend": "-5% last 20 min",
+        "crowd_level": 24,
+        "trend": "-1% last 20 min",
         "trend_type": "down",
         "reason": "Calm residential"
       },
@@ -153,9 +153,9 @@
       "type": "Feature",
       "properties": {
         "name": "Grund & Clausen",
-        "crowd_level": 15,
-        "trend": "-3% last 20 min",
-        "trend_type": "down",
+        "crowd_level": 19,
+        "trend": "+4% last 20 min",
+        "trend_type": "up",
         "reason": "Calm lower town"
       },
       "geometry": {
@@ -190,9 +190,9 @@
       "type": "Feature",
       "properties": {
         "name": "Belair & Merl",
-        "crowd_level": 19,
-        "trend": "-4% last 20 min",
-        "trend_type": "down",
+        "crowd_level": 20,
+        "trend": "+1% last 20 min",
+        "trend_type": "up",
         "reason": "Quiet parks"
       },
       "geometry": {
@@ -227,9 +227,9 @@
       "type": "Feature",
       "properties": {
         "name": "Gasperich / Cloche d'Or",
-        "crowd_level": 43,
-        "trend": "+5% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 49,
+        "trend": "-3% last 20 min",
+        "trend_type": "down",
         "reason": "Retail and offices"
       },
       "geometry": {
@@ -265,8 +265,8 @@
       "properties": {
         "name": "Bonnevoie",
         "crowd_level": 27,
-        "trend": "+2% last 20 min",
-        "trend_type": "up",
+        "trend": "-3% last 20 min",
+        "trend_type": "down",
         "reason": "Local neighbourhood flow"
       },
       "geometry": {

@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Ville-Haute (Historic City Centre)",
-        "crowd_level": 83,
-        "trend": "+5% last 20 min",
+        "crowd_level": 79,
+        "trend": "+4% last 20 min",
         "trend_type": "up",
         "reason": "Saturday dinner & bar nightlife"
       },
@@ -42,8 +42,8 @@
       "type": "Feature",
       "properties": {
         "name": "Gare",
-        "crowd_level": 67,
-        "trend": "+3% last 20 min",
+        "crowd_level": 66,
+        "trend": "+8% last 20 min",
         "trend_type": "up",
         "reason": "Night transport and transit"
       },
@@ -79,9 +79,9 @@
       "type": "Feature",
       "properties": {
         "name": "Kirchberg",
-        "crowd_level": 25,
-        "trend": "-5% last 20 min",
-        "trend_type": "down",
+        "crowd_level": 29,
+        "trend": "+4% last 20 min",
+        "trend_type": "up",
         "reason": "Evening dining and events"
       },
       "geometry": {
@@ -117,7 +117,7 @@
       "properties": {
         "name": "Limpertsberg",
         "crowd_level": 24,
-        "trend": "+1% last 20 min",
+        "trend": "+2% last 20 min",
         "trend_type": "up",
         "reason": "Quiet residential"
       },
@@ -153,8 +153,8 @@
       "type": "Feature",
       "properties": {
         "name": "Grund & Clausen",
-        "crowd_level": 84,
-        "trend": "-7% last 20 min",
+        "crowd_level": 92,
+        "trend": "-6% last 20 min",
         "trend_type": "down",
         "reason": "Peak weekend nightlife along Rives de Clausen"
       },
@@ -190,9 +190,9 @@
       "type": "Feature",
       "properties": {
         "name": "Belair & Merl",
-        "crowd_level": 14,
-        "trend": "-1% last 20 min",
-        "trend_type": "down",
+        "crowd_level": 13,
+        "trend": "+4% last 20 min",
+        "trend_type": "up",
         "reason": "Quiet evening"
       },
       "geometry": {
@@ -227,9 +227,9 @@
       "type": "Feature",
       "properties": {
         "name": "Gasperich / Cloche d'Or",
-        "crowd_level": 28,
-        "trend": "+8% last 20 min",
-        "trend_type": "up",
+        "crowd_level": 30,
+        "trend": "-8% last 20 min",
+        "trend_type": "down",
         "reason": "Post-retail outflow"
       },
       "geometry": {
@@ -264,8 +264,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bonnevoie",
-        "crowd_level": 60,
-        "trend": "+3% last 20 min",
+        "crowd_level": 56,
+        "trend": "+2% last 20 min",
         "trend_type": "up",
         "reason": "Active local restaurants and pubs"
       },
